@@ -1,4 +1,4 @@
-document.ready(() => {
+$document.ready(() => {
 	const amenities = {};
 	$("li input[type=checkbox]").change(() => {
 		if (this.checked) {
