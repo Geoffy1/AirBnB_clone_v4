@@ -1,6 +1,6 @@
 ## 0x06. AirBnB clone - Web dynamic
 
-Thir directory is the final part of the AirBnB clone project.
+This was the final iteration of the AirBnB Clone project and consisted in changing the Server-Side Render for Client-Based Render using JavaScript with jQuery, and the RESTful API from previous iteration.
 
 ## General Objective
 * How cool it is to request your own API
